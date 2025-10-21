@@ -1,3 +1,10 @@
+#Linux Distro
+KALI - security focused. Comes with preloaded pentesting and cybersecurity tools. Widely used by ethical hackers and security professionals
+
+Ubuntu - User-friendly, with a large community and lots of support with excellent software compatibility
+
+Arch - Lightweight, highly customizable and great for learning linux terminal commands.
+
 #QR Code Generator Library in Rust from a Netherlands Developer
 
 Developer: Rafaelmdcarneiro 
