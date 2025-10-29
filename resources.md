@@ -8,6 +8,7 @@ Some curated sources of stuff I personally came across as impactful and full of 
 - [Stuff Made Here](https://www.youtube.com/channel/UCj1VqrHhDte54oLgPG4xpuQ) - For engineering development process videos. He also has a second channel called *Stuff Made Here 2* where he does some teardown of the Form 4 3D printer. Very good to see how they explain the choices made. He's a mechanical design engineer.
 - [Digikey](https://www.youtube.com/channel/UCclJCqMDAkyVGsm5oFOTXIQ) - For **electronics** next-step intro videos. Especially Shawn Hymel's series. Check his series on KiCad, and Yocto(if/when you get there).
 - [Real Engineering](https://www.youtube.com/channel/UCR1IuLEqb6UEA_zQ81kwXfg) - For auto engineering and design choices and thinking in military and general engineering.
+- [EEVBlog](https://www.youtube.com/@EEVblog) - Electronics engineering blog made by a guy with a lot of real world experience, delivering content that directly fills the gap unfilled by the transition from theory to **professional**(beyond just practice).
 
 ### Social Groups and Channels
 *Discord:*
@@ -29,3 +30,4 @@ Programming:
 - [Coursera](coursera.org) - Has some good courses on technical topics taught by professionals or academics with tons of experience or at least skill at passing on information on their topic.
 - [Embedded Online Conference](embeddedonlineconference.com) - Online embedded (**paid**) conference, sometimes they have free talks from the old legends of the embedded field; It's from the makers of **EmbeddedRelated.com** below.
 - [Embedded Related](embeddedrelated.com) - A blog about embedded development, which has a whole host of sibling sites around electronics development like <https://FPGARelated.com>, <https://DSPRelated.com>, and <https://electronics-related.com>.
+- [Hackaday](https://hackaday.io) - Very good hardware hackers community(probably the biggest I know). Has very good inspirational projects for hardware development.
